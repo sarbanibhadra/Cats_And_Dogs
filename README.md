@@ -1,10 +1,10 @@
 # Cats and Dogs
 
-In this activity, you will make a cats object and a dogs object, each with three keys.
+In this activity, made a cats object and a dogs object, each with three keys.
 
 ## Instructions
 
-* Make a dogs object with three keys:
+* Dogs object with three keys:
 
   * First key called `raining` with a value of `true`.
 
@@ -12,7 +12,7 @@ In this activity, you will make a cats object and a dogs object, each with three
 
   * Third key called "`akeNoise`" which contains a function that console.logs the noise to the screen if it is raining dogs.
 
-* Next, make a cats object with three keys:
+* Next, Cats object with three keys:
 
   * First key called `raining` with a value of `false`.
 
@@ -26,9 +26,9 @@ In this activity, you will make a cats object and a dogs object, each with three
 
 ## 🏆BONUS 
 
-* Create a function called `massHysteria` that takes in both the cats and the dogs objects and prints "DOGS AND CATS LIVING TOGETHER! MASS HYSTERIA!" if both of the `raining` keys are equal to `true`.
+* Created a function called `massHysteria` that takes in both the cats and the dogs objects and prints "DOGS AND CATS LIVING TOGETHER! MASS HYSTERIA!" if both of the `raining` keys are equal to `true`.
 
-* See if there is any way to further optimize your code.
+* See if there is any way to further optimize your code
 
 ---
 
